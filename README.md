@@ -26,7 +26,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖 hello_rails_backend<a name="about-project"></a> 
 
-> **[hello_rails_backend]** is a rail app designed to create api endpoint to be consumed by [hello_react_frontend](https://github.com/Enoisong/hello_react_frontend/pull/1) to display greetings.
+> **[hello_rails_backend]** is a rail app designed to create api endpoint to be consumed by [hello_react_frontend](https://github.com/Enoisong/hello_react_frontend) to display greetings.
  
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>

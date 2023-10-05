@@ -8,8 +8,8 @@
 #   gem install pg -- --with-pg-config=/opt/local/lib/postgresql84/bin/pg_config
 # On Windows:
 #   gem install pg
-#       Choose the win32 build.
-#       Install PostgreSQL and put its /bin directory on your path.
+#   Choose the win32 build.
+#   Install PostgreSQL and put its /bin directory on your path.
 #
 # Configure Using Gemfile
 # gem "pg"
@@ -29,12 +29,12 @@ development:
   password: admins
   host: localhost
 
-  test:
+test:
   <<: *default
   database: hello_rails_backend_test
   username: postgres
   password: admins
- 
+
 production:
   <<: *default
   database: hello_rails_backend_production
